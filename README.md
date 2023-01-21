@@ -1,2 +1,2 @@
 # Ping-Pong
-a simple ping pong game in python using the turtle library
+a simple ping pong game in C
